@@ -8,6 +8,7 @@ This project provides practical examples of how to apply these techniques using 
 
 # Algorithms Covered
  Stemming Algorithms:-
+ 
  1-PorterStemmer
  
  2-Snowball Stemmer
@@ -20,16 +21,28 @@ This project provides practical examples of how to apply these techniques using 
 
  # Installation
  1-nltk
+ 
  pip install nltk
+ 
  nltk.__version__
+ 
  nltk.download()
+ 
  # --------------------------------
  2-spacy
+ 
  pip install spacy 
+ 
  after this open terminal 
+ 
  and write this 
- python -m spacy download en 
+ 
+ python -m spacy download en
+ 
  this command for download english language 
+ 
  after this write this command 
+ 
  python -m spacy download en_core_web_sm 
+ 
  this command for download small letters
