@@ -9,10 +9,13 @@ This project provides practical examples of how to apply these techniques using 
 # Algorithms Covered
  Stemming Algorithms:-
  1-PorterStemmer
+ 
  2-Snowball Stemmer
+ 
  3-Lancaster Stemmer
 
  # Lemmatization Algorithms
+ 
  1-WordNet Lemmatizer
 
  # Installation
@@ -20,6 +23,7 @@ This project provides practical examples of how to apply these techniques using 
  pip install nltk
  nltk.__version__
  nltk.download()
+ # --------------------------------
  2-spacy
  pip install spacy 
  after this open terminal 
